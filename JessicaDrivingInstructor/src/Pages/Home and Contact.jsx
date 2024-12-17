@@ -2,4 +2,4 @@
 
 function Contact() {}
 
-return <>My Story</>;
+return <form>Email</form>;
